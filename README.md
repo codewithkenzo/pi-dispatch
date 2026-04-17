@@ -13,7 +13,9 @@ Pi Dispatch registers execution primitives that let the agent launch tasks with 
 
 ## Quick demo
 
-- [Watch the Pi Dispatch demo (MP4)](./docs/media/pi-dispatch-demo.mp4) — shows the flow deck, profile routing, and a background run in one short capture.
+[![Pi Dispatch demo preview](./docs/media/pi-dispatch-demo-poster.jpg)](./docs/media/pi-dispatch-demo.mp4)
+
+Shows the flow deck, profile routing, and a background run in one short capture.
 
 ## Surfaces
 
