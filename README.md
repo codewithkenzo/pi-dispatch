@@ -5,7 +5,7 @@
 [![Effect](https://img.shields.io/badge/Effect--TS-black?style=flat-square)](https://effect.website)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-`@codewithkenzo/pi-dispatch` — Profile-based execution and queued task dispatch for the [Pi coding agent](https://github.com/badlogic/pi-mono).
+Profile-based execution and queued task dispatch for the [Pi coding agent](https://github.com/badlogic/pi-mono).
 
 Part of the [Pi Rig suite](https://github.com/codewithkenzo/pi-rig).
 
